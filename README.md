@@ -1,7 +1,3 @@
-<!doctype html>
-<html>
-<head> <title> Nivea und Brobins Wörterbuch </title> </head>
-
 <body>
 
 <h1> Geschichte der Wintermelone </h1>
